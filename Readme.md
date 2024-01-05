@@ -8,4 +8,4 @@
 
  ### Visualização do Projeto: 
     
-* [Clique Aqui](https://carlosdev0410.github.io/Projeto-Seal.World/)https://carlosdev0410.github.io/Projeto-Seal.World/)
+* [Clique Aqui](https://carlosdev0410.github.io/Projeto-Seal.World/)
